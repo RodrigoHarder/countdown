@@ -1,0 +1,10 @@
+.app{
+    background-color: #DE6449;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding:15px;
+    border-radius: 20px;
+}

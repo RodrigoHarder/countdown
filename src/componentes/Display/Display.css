@@ -1,0 +1,37 @@
+.configuracoes-de-temporizador {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.configuracoes-de-temporizador span{
+    margin-top:20px;
+}
+
+.inputs{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.configuracoes-de-temporizador label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.configuracoes-de-temporizador input {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    width: 80px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    background-color: #242424;
+}
+
+.tempo-restante{
+    font-size: 40px;
+}

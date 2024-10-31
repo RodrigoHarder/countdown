@@ -1,0 +1,11 @@
+.controles{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+}
+
+.controles button{
+    color:white;
+    background-color: #42BFDD;
+}
